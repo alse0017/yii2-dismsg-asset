@@ -1,6 +1,6 @@
 .disMsg {
 	display: none;
-	z-index: 9500;
+	z-index: 999998;
 	position: fixed;
 	background-color: #323232;
 	color: #fff;
@@ -18,7 +18,7 @@
 	opacity: 0;
 }
 .disMsg:hover {
-	z-index: 10000;
+	z-index: 999999;
 }
 .disMsg__inner {
 	padding: 25px 30px 25px 25px;
